@@ -6,7 +6,7 @@ Although there are many methods have been developed to detect the Structural var
 ---
 ## Installation
 ```
-wget https://github.com/nwpuzhengyan/SVvaliation.git
+git clone https://github.com/nwpuzhengyan/SVvaliation.git
 ```
 ---
 ## Dependence
