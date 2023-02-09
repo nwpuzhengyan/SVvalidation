@@ -30,6 +30,7 @@ chr1	1925143	1925143	147	INS
 chr1	2768484	2768692	208	DEL
 chr1	2866089	2866236	147	INV
 ```
+---
 ## Output format
 The output format is as follows. The first three columns are same with input format. The fourth column is the validated SV length and fifth column are validated SV type. homo_INS represents the SV is a homozygous INS and heter_DEL represents the SV is a heterozygous DEL. false_SV represents there is no INV in this location.
 ```
