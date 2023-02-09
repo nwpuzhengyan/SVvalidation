@@ -10,7 +10,7 @@ git clone https://github.com/nwpuzhengyan/SVvaliation.git
 ```
 ---
 ## Dependence
-    1. Python3.8.10
+    1. Python
 	2. pysam
 	3. cigar
 	4. pyfaidx
